@@ -16,4 +16,7 @@ public class ConfigParameters {
 
     public static String errorMessage = "There's already a folder with this name. Try a different name.";
 
+    public static String pathToChromeDriver = "C:\\\\Users\\\\P3700731\\\\Downloads\\\\selenium\\\\chromedriver.exe";
+
+    public static int timeout = 30;
 }
